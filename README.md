@@ -11,9 +11,10 @@
             alt="HTML válido!" />
 
 
+<strong>Não está completo.<strong/>
 
 # Diat
-Nossa ideia é criar um site para ajudar as pessoa diabeticas a fazer seus calculos de insulina
+Nossa ideia é criar um site para ajudar as pessoa diabeticas a fazer seus calculos de insulina.
 
 ## Membros
 - `Gabriel Althoff -  rm15194`
@@ -21,3 +22,6 @@ Nossa ideia é criar um site para ajudar as pessoa diabeticas a fazer seus calcu
 - Willian Feng - rm13675
 - Oliver Kanai - rm14078
 - Joao Gabriel - rm15267
+
+  ## Setup
+Instalação dos modelos node - npm i
